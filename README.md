@@ -1,4 +1,4 @@
-# musicstreamingapp
+# Flutter Music Streaming App
 
 A concept for a music streaming app based on Avdan's re-imagining of Spotify
 
